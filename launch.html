@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/count.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1 id="headline">COMING SOON: THIS PORTFOLIO WEBSITE IS CURRENTLY UNDER CONSTRUCTION PLEASE COOPERATE...🙌✌️</h1>
+        <div id="countdown">
+          <ul>
+            <li><span id="days"></span>days</li>
+            <li><span id="hours"></span>Hours</li>
+            <li><span id="minutes"></span>Minutes</li>
+            <li><span id="seconds"></span>Seconds</li>
+          </ul>
+        </div>
+        
+        <div id="content" class="emoji" style="display: none;">
+          <span>🥳</span>
+          <span>🎉</span>
+          <span>😍</span>
+          <span>🥳</span>
+          <span>🎉</span>
+          <span>😍</span>
+        </div>
+    </div>
+
+    <script>
+        (function () {
+            const second = 1000,
+                  minute = second * 60,
+                  hour = minute * 60,
+                  day = hour * 24;
+
+            // Get current date
+            let today = new Date();
+
+            // Add 6 months to the current date
+            let targetDate = new Date(today);
+            targetDate.setMonth(targetDate.getMonth() + 3);
+
+            // Format date as mm/dd/yyyy
+            let dd = String(targetDate.getDate()).padStart(2, "0"),
+                mm = String(targetDate.getMonth() + 1).padStart(2, "0"),
+                yyyy = targetDate.getFullYear();
+
+            // Construct the target date string
+            const countDownDate = new Date(`${mm}/${dd}/${yyyy}`).getTime();
+
+            const x = setInterval(function() {    
+                const now = new Date().getTime(),
+                      distance = countDownDate - now;
+
+                document.getElementById("days").innerText = Math.floor(distance / (day)),
+                document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
+                document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
+                document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+
+                // Do something later when the date is reached
+                if (distance < 0) {
+                    document.getElementById("headline").innerText = "It's time to upload everything!";
+                    document.getElementById("countdown").style.display = "none";
+                    document.getElementById("content").style.display = "block";
+                    clearInterval(x);
+                }
+            }, 1000);
+        }());
+    </script>
+
+</body>
+</html>
