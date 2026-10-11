@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mipashyayalmar.github.io/profile-data-2-cld/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://mipashyayalmar.github.io/profile-data-2-cld/assets/images/about/prasad-yalmar.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://mipashyayalmar.github.io/profile-data-2-cld/resume.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /launch.html
+
+Sitemap: https://mipashyayalmar.github.io/profile-data-2-cld/sitemap.xml
