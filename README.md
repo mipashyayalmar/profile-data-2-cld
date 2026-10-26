@@ -7,7 +7,6 @@ Personal developer portfolio for **Prasad Ganesh Yalmar**, a Python Full Stack D
 - **Live website:** [mipashyayalmar.github.io/profile-data-2-cld](https://mipashyayalmar.github.io/profile-data-2-cld/)
 - **Repository:** [github.com/mipashyayalmar/profile-data-2-cld](https://github.com/mipashyayalmar/profile-data-2-cld)
 - **GitHub profile:** [github.com/mipashyayalmar](https://github.com/mipashyayalmar)
-- **Profile reference:** [Claude profile reference](https://claude.ai/share/8483ac3c-6467-47ad-a73a-366de30e4da1)
 
 ## Professional Summary
 
