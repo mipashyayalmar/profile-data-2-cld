@@ -67,3 +67,45 @@ Year of passing: 2025
 ## Local Preview
 
 This is a static HTML portfolio. Open `index.html` directly in a browser, or serve the project directory with any static file server.
+
+
+## GitHub Repository Directory
+
+Explore my [GitHub profile](https://github.com/mipashyayalmar) for the complete public repository directory. The following are public repositories (including experiments, learning exercises, forks, and archived project versions); a listing does not establish ownership of all source code or production readiness.
+
+| Public repository | Status |
+| --- | --- |
+| [-Profile-data](https://github.com/mipashyayalmar/-Profile-data) | Available |
+| [adharfinal-django-lc](https://github.com/mipashyayalmar/adharfinal-django-lc) | Available |
+| [An525ish](https://github.com/mipashyayalmar/An525ish) | Available |
+| [fantastic-octo-eureka](https://github.com/mipashyayalmar/fantastic-octo-eureka) | Empty |
+| [feed](https://github.com/mipashyayalmar/feed) | Empty |
+| [frontend](https://github.com/mipashyayalmar/frontend) | Available |
+| [hangman](https://github.com/mipashyayalmar/hangman) | Available |
+| [highdeotech](https://github.com/mipashyayalmar/highdeotech) | Available |
+| [highdeotechhp](https://github.com/mipashyayalmar/highdeotechhp) | Available |
+| [labour-management-sys](https://github.com/mipashyayalmar/labour-management-sys) | Available |
+| [main-pandharpur-new-ui](https://github.com/mipashyayalmar/main-pandharpur-new-ui) | Available |
+| [mipashya](https://github.com/mipashyayalmar/mipashya) | Available |
+| [my_gallery](https://github.com/mipashyayalmar/my_gallery) | Available |
+| [new_card](https://github.com/mipashyayalmar/new_card) | Available |
+| [orconf](https://github.com/mipashyayalmar/orconf) | Available |
+| [pandharpur](https://github.com/mipashyayalmar/pandharpur) | Available |
+| [pashya](https://github.com/mipashyayalmar/pashya) | Available |
+| [portfolio](https://github.com/mipashyayalmar/portfolio) | Available |
+| [Products.CMFPlone](https://github.com/mipashyayalmar/Products.CMFPlone) | Available |
+| [profile-data-2-cld](https://github.com/mipashyayalmar/profile-data-2-cld) | Available |
+| [projects](https://github.com/mipashyayalmar/projects) | Available |
+| [projectss](https://github.com/mipashyayalmar/projectss) | Available |
+| [publiccode.asia](https://github.com/mipashyayalmar/publiccode.asia) | Available |
+| [royal_test](https://github.com/mipashyayalmar/royal_test) | Available |
+| [royalshetakari7799](https://github.com/mipashyayalmar/royalshetakari7799) | Available |
+| [sahil-kate](https://github.com/mipashyayalmar/sahil-kate) | Available |
+| [smartdigitalcards](https://github.com/mipashyayalmar/smartdigitalcards) | Empty |
+| [soving](https://github.com/mipashyayalmar/soving) | Available |
+| [summit.fossasia.org](https://github.com/mipashyayalmar/summit.fossasia.org) | Available |
+| [TeacherFeedback](https://github.com/mipashyayalmar/TeacherFeedback) | Available |
+| [TeacherFeedbackww](https://github.com/mipashyayalmar/TeacherFeedbackww) | Empty |
+| [tours-and-travels-](https://github.com/mipashyayalmar/tours-and-travels-) | Available |
+
+> Private repositories are not listed here. Check the source, documentation, and license for accurate project details.
